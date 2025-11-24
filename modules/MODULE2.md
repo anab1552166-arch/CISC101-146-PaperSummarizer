@@ -1,8 +1,8 @@
 # Module 2: Section loop
 
-### Change log:
-### Added summary_level variable with "short" and "detailed" options
-### Added conditional behavior in the section loop to support different summary levels.
+#### Change log:
+##### Added summary_level variable with "short" and "detailed" options
+##### Added conditional behavior in the section loop to support different summary levels.
 
 summary_level = "short" # options: "short" or "detailed"
 
@@ -46,5 +46,6 @@ for section in NormalizedSections:
 #### 3. If "detailed", generate a short paragraph and a bullet list of 3-5 key points.
 #### 4. Continue till all of the sections are summarized.
   
+
 
 
