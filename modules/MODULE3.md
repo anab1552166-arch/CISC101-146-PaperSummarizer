@@ -34,6 +34,6 @@
 - Consistency checker for terminology and tone
 
 ### Strict evidence mode
-## - When evidence_mode = "strict":
-##   - Only include claims, equations, and results that appear in the provided text.
-##   - If a section doesn't have enough information, output: "The source text does not provide enough detail to summarize this section in strict evidence mode."
+#### When evidence_mode = "strict":
+####     Only include claims, equations, and results that appear in the provided text.
+#### If a section does not have enough information, output: "The source text does not provide enough detail to summarize this section in strict evidence mode."
